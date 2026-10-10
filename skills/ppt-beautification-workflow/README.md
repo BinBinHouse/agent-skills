@@ -2,6 +2,18 @@
 
 > **范围明确**：专注于“已有一页 PPT / PPT截图 / 单页PPT文件”的美化与可编辑重建，不默认扩展为整套演示文稿。
 
+## 实际案例：远景模式
+
+| 原始 PPT 截图 | 美化后的可编辑 PPT 渲染图 |
+| :---: | :---: |
+| ![美化前](examples/vision-mode/before.png) | ![美化后](examples/vision-mode/after.png) |
+
+[查看完整案例与说明](examples/vision-mode/README.md) · [下载可编辑 PPTX](examples/vision-mode/vision-mode-editable.pptx)
+
+本案例展示了单页 PPT 从原图到美化后可编辑文件的过程。主体文字、图形和卡片尽可能保持可编辑，复杂插图可以为独立图片。模型和工具不同，效果不保证完全相同。
+
+---
+
 ## 这个版本更新了什么？
 
 v1.2 重点修了两类问题：
@@ -99,12 +111,18 @@ v1.2 重点修了两类问题：
 ## 文件结构
 
 ```text
-ppt-beautification-workflow-v1.2/
-├── SKILL.md                     # Agent 核心规则，必须
-├── README.md                    # GitHub 介绍和使用方法
-└── references/
-    ├── icon-spec.md             # 统一图标 / RGB / Alpha
-    └── qa-checklist.md          # 渲染后质量检查
+ppt-beautification-workflow/
+├── SKILL.md                    # Agent 核心规则，必须
+├── README.md                   # 本 Skill 的完整说明
+├── references/
+│   ├── icon-spec.md            # 统一图标 / RGB / Alpha
+│   └── qa-checklist.md         # 渲染后质量检查
+└── examples/
+    └── vision-mode/
+        ├── README.md
+        ├── before.png
+        ├── after.png
+        └── vision-mode-editable.pptx
 ```
 
 ---
@@ -125,6 +143,6 @@ ppt-beautification-workflow-v1.2/
 
 ## 在 GitHub 上公开前
 
-本包没有包含公司融资PPT、客户材料或敏感参考页；如果你之后加入 `reference.pptx`、真实案例页或客户素材，必须先检查内容是否适合公开。
+本 Skill 附有「远景模式」实际案例，包含业务技术描述及插画；仓库当前为 Private。任何公开发布前，都应确认案例内容和素材已取得必要的公开与再分发许可。
 
 仓库的 LICENSE 建议由仓库所有者统一决定；当前文件夹不擅自绑定开源许可证。
