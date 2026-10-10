@@ -4,13 +4,13 @@
 
 ## 美化前
 
-> 原始截图尚未上传至仓库。
+![远景模式原始截图](before.png)
 
 ## 美化后
 
-> 实际渲染预览图尚未上传至仓库。
+![远景模式美化后PPTX实际渲染预览](after.png)
 
-**最终文件：** `vision-mode-editable.pptx`（待上传）。
+**最终文件：** [下载可编辑 PPTX](vision-mode-editable.pptx)。
 
 ## 保留了什么
 
