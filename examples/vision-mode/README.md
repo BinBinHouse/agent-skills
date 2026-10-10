@@ -4,13 +4,13 @@
 
 ## 美化前
 
-![原始 PPT 页面](before.png)
+> 原始截图尚未上传至仓库。
 
 ## 美化后
 
-![可编辑 PPTX 的实际渲染效果](after.png)
+> 实际渲染预览图尚未上传至仓库。
 
-**最终文件：** [vision-mode-editable.pptx](vision-mode-editable.pptx)
+**最终文件：** `vision-mode-editable.pptx`（待上传）。
 
 ## 保留了什么
 
