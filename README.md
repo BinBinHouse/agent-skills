@@ -41,3 +41,7 @@ agent-skills/
 ```
 
 每个 Skill 自包含，案例和辅助文件均存放在对应 Skill 目录下。
+
+## 📄 许可证
+
+本项目采用 [MIT License](LICENSE)，欢迎使用、修改与分享，并请保留原始版权和许可声明。
