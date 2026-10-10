@@ -12,9 +12,9 @@
 
 | 美化前：原始页面截图 | 美化后：从可编辑 PPTX 实际导出的预览 |
 | :---: | :---: |
-| 原始页面截图：待上传 | 实际渲染预览：待上传 |
+| ![原始页面截图](examples/vision-mode/before.png) | ![美化后PPTX的实际渲染效果](examples/vision-mode/after.png) |
 
-[查看案例说明](examples/vision-mode/README.md) · *原始截图、渲染图和可编辑 PPTX 将在附件补传后提供*
+[查看案例说明](examples/vision-mode/README.md) · [下载可编辑 PPTX](examples/vision-mode/vision-mode-editable.pptx) · [查看原始图片](examples/vision-mode/before.png) · [查看美化后图片](examples/vision-mode/after.png)
 
 > 案例反映一次具体测试的成果，不保证任何模型均可自动输出完全一致的视觉效果。使用时必须具备 PPTX 编辑/导出能力；高质量图标和效果图可能需要图像生成能力。
 
